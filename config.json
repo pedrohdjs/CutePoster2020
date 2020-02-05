@@ -1,0 +1,16 @@
+{
+    "reddit": {
+        "clientId": "---",
+        "clientSecret": "---",
+        "userAgent": "---",
+        "username": "---",
+        "password": "---"
+    },
+    "twitter": {
+        "consumer_key": "---",
+        "consumer_secret": "---",
+        "access_token": "---", 
+        "access_token_secret": "---"
+    },
+    "subreddits": ["aww", "cute", "rarepuppers", "chonkers", "cats", "blep", "dogpictures"] 
+}
